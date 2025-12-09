@@ -20,6 +20,11 @@ capsule demonstrating that true application development requires time
 invested in mastering every component, from the CPU to the screen
 buffer.
 
+Overview:
+![Global View](./Images/ED5_1.png)
+![Global View](./Images/ED5_2.png)
+
+
 **What this project teaches modern developers:**
 
 1.  **System Programming:** Writing directly to memory and handling
