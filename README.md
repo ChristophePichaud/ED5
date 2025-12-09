@@ -21,7 +21,9 @@ invested in mastering every component, from the CPU to the screen
 buffer.
 
 Overview:
+
 ![Global View](./Images/ED5_1.png)
+
 ![Global View](./Images/ED5_2.png)
 
 
