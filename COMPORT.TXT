@@ -1,0 +1,70 @@
+COMPORTEMENT
+ÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+    Lorsque vous s‚lectionnez la commande Nouveau du menu Fichier, une
+boite se dialogue de pr‚sente … vous.
+Le titre de la boite d‚crit la commande choisit, et la texte … l'int‚rieur
+vous invite … repondre … une question.
+Vous devez cliquer avec le bouton gauche de la souris soit sur OK, soit sur
+ANNULER.
+ 
+  ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+  ³Effacer tout            ³
+  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+  ³   Confirmation ?       ³
+  ³  ÉÍÍ»      ÉÍÍÍÍÍÍÍ»   ³
+  ³  ºOKº      ºAnnulerº   ³
+  ³  ÈÍÍ¼      ÈÍÍÍÍÍÍÍ¼   ³
+  ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+ 
+Ce genre de boite de dialogue existe sous une autre forme:
+ 
+Lorsque vous s‚lectionnez la commande Ouvrir du menu Fichier, vous devez
+fournir un nom de fichier. Il se peut qu'une boite de dialogue se pr‚sente
+… vous:
+ 
+  ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+  º   Erreur Utilsateur    º
+  ÌÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¹
+  º  Lecture impossible !  º
+  º         ÉÍÍ»           º
+  º         ºOKº           º
+  º         ÈÍÍ¼           º
+  ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+ 
+Cette boite vous informe simplement, elle ne vous demande pas de r‚pondre
+… une question. Vous n'avez qu'… cliquer avec le bouton gauche de la souris
+sur OK.
+ 
+Si vous voulez ouvrir un fichier, veuillez reprendre la commande Ouvrir du
+menu Fichier et recommencer.
+ 
+ 
+Note technique:
+Ú
+³L'‚diteur ED ouvre les fichiers avec le chemin que vous lui fournissez.
+³Si votre fichier ne se trouve pas dans le chemin courant, vous devez le
+³sp‚cifier sans quoi vous obtiendrez un message sous forme de boite de
+³dialogue.
+À
+ 
+ 
+Lorsque vous s‚lectionnez la commande Enregistrer sous... du menu Fichier,
+vous pouvez obtenir un message sous forme de boite de dialogue.
+Le texte sera: Ecriture impossible !
+ 
+ 
+Losrque la commande Quitter du menu Fichier est s‚lectionn‚e (commande
+‚quivalente … CTRL ESC) une boite de dialogue apparait.
+Elle demande une confirmation, tout comme la boite de dialogue de la
+commande Nouveau du menu Fichier.
+ 
+Bidouille:
+Ú
+³Si vous appuyer sur OK, mais que vous ne relachez pas le bouton gauche
+³de la souris, vous pouvez encore annuler.
+³Il suffit de d‚placer la souris hors du cadre OK puis de relacher le bouton
+³gauche de la souris.
+À
+ 
+Cette bidouille est valable pour toutes les proc‚dures de sortie (Quitter).

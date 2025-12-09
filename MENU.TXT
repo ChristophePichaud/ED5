@@ -1,0 +1,42 @@
+LES MENUS
+ÄÄÄÄÄÄÄÄÄ
+ 
+    Les commandes de l'‚diteur ED sont r‚parties comme suit :
+ 
+          Fichier
+          ÄÄÄÄÄÄÄ
+          ÚÄ
+          ³ Nouveau                 :  Cr‚‚ un nouveau document
+          ³ Ouvrir                  :  Ouvre un document existant
+          ³ Enregistrer             :  Sauve le document courant
+          ³ Enregistrer sous...     :  Sauve le document avec un nom nouveau
+          ³ Quitter                 :  Quitte l'‚diteur ED.
+          ÀÄ
+ 
+ 
+          Edition
+          ÄÄÄÄÄÄÄ
+          ÚÄ
+          ³ Couper ligne            :  Supprime la ligne courante
+          ³ Effacer ligne           :  Efface la ligne courante
+          ³ Ins‚rer ligne           :  InsŠre une ligne o— est le curseur
+          ³ Page suivante           :  Affichage de la page suivante (bas)
+          ³ Page pr‚c‚dente         :  Affichage de la page pr‚c‚dente (haut)
+          ³ D‚but de ligne          :  Positionne le curseur en d‚but de ligne
+          ³ Fin de ligne            :  Positionne le curseur en fin de ligne
+          ³ Ligne h. simple         :  Trace une ligne horizontale simple
+          ³ Ligne h. double         :  Trace une ligne horizontale double
+          ³ Ligne v. simple         :  Trace une ligne verticale simple
+          ³ Ligne v. double         :  Trace une ligne verticale double
+          ³ Cadre simple            :  Trace un cadre simple
+          ³ Cadre double            :  Trace un cadre double
+          ÀÄ
+ 
+ 
+          Aide
+          ÄÄÄÄ
+          ÚÄ
+          ³ Clavier                 :  Aide sur les commandes clavier
+          ³ Menu                    :  Aide sur les commandes des menus
+          ³ A Propos                :  Quelques remarques sur le logiciel
+          ÀÄ

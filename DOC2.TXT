@@ -1,0 +1,176 @@
+Date : Mois de Mars
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+ 
+ 
+               ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+               ³ L'EDITEUR ED ³
+               ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+ 
+ 
+ 
+    L'‚diteur ED est un ‚diteur de texte qui permet de cr‚er des lettres.
+Il est possible de se servir du clavier ou de la souris.
+Les fichiers cr‚‚s avec l'‚diteur sont des fichiers texte non format‚s.
+ 
+ 
+Avec l'‚diteur ED vous avez la possibilit‚ :
+ 
+    ~   d'avoir accŠs … des commandes dans un menu
+ 
+    ~   de saisir des informations et des options dans des boŒtes de dialogue
+ 
+    ~   de supprimer ou d'inserer du texte
+ 
+    ~   de dessiner des cadres, des lignes verticales et horizontales
+ 
+    ~   d'utiliser l'aide pour les commandes et les manipulations de textes
+ 
+ 
+ 
+LES MENUS
+ÄÄÄÄÄÄÄÄÄ
+ 
+    Pour s‚lectionner des commandes dans les menus de l'‚diteur ED, vous
+devez commencer par s‚lectionner un menu, puis une commande.
+Vous pouvez y parvenir soit … l'aide du clavier, soit … l'aide de la souris.
+ 
+Pour s‚lectionner un menu, puis une commande :
+ 
+    _ A l'aide du clavier:
+ 
+      Si vous connaissez le menu dans lequel la commande r‚side, alors appuyer
+      sur ALT + la 1Šre lettre du menu. Sinon , appuyer sur ALT F, vous
+      activerez ainsi le menu Fichier qui est le premier menu pr‚sent sur la
+      barre de menus situ‚e en haut de l'‚cran.
+      Changez de menu en appuyant sur les touches DROITE ou GAUCHE.
+      Appuyer sur les touches HAUT ou BAS pour s‚lectionner une commande.
+      Appuyer sur ENTREE pour lancer une commande.
+ 
+    _ A l'aide de la souris :
+ 
+      Cliquez sur le nom du menu d‚sir‚ avec le bouton gauche de la souris,
+      puis, toujours avec ce mˆme bouton gauche de la souris, cliquez sur
+      la commande d‚sir‚e.
+ 
+ 
+L'‚diteur ED met … votre disposition 3 menus :
+ 
+    ~   Fichier
+ 
+    ~   Edition
+ 
+    ~   Aide
+ 
+Toutes les commandes de ces 3 menus sont d‚crites dans la section 'Menus'.
+ 
+ 
+ 
+SORTIR DE L'EDITEUR ED
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+    S‚lectionner la commande Quitter dans le menu Fichier.
+ 
+    ATTENTION: Si vous quittez l'‚diteur ED, votre document n'est pas
+               sauvegarder automatiquement.
+ 
+ 
+ 
+CREATION D'UN FICHIER TEXTE
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+    Vous tapez des caractŠres dans la fenˆtre de l'‚diteur ED.
+Lorsque vous arrivez … la fin d'une ligne, vous devez appuyer sur ENTREE
+afin de positionner votre curseur sur la ligne suivante. Une ligne de
+texte peut contenir jusqu'… 77 caractŠres.
+ 
+L'‚diteur ED met … votre disposition un ensemble de commandes accessibles au
+clavier, vous apportant ainsi une certaine facilit‚ dans l'‚dition de vos
+documents:
+ 
+    ~   DEL    :    Supprime le caractŠre se trouvant … gauche du curseur
+ 
+    ~   SUPPR  :    Supprime le caractŠre se trouvant … droite du curseur
+ 
+    ~   INSER  :    Passe en mode insertion de caractŠres ou en mode
+                    ‚crasement de caractŠres
+ 
+    ~   CTRL n :    Permet de tout effacer. Une commande ‚quivalente,
+                    Nouveau, se trouve dans le menu Fichier.
+ 
+    ~   CTRL y :    Si vous ˆtes en mode insertion de caractŠres,cette
+                    commande supprime la ligne sur laquelle le curseur est
+                    positionn‚.
+                    Si vous ˆtes en mode ‚crasement de caractŠres,cette
+                    commande efface la ligne, mais elle ne la supprime pas.
+ 
+ 
+    ~   CTRL t :    Permet de d‚finir la nouvelle tabulation.
+                    Une pression sur ECHAP permet de conserver l'ancienne
+                    valeur de la tabulation.
+                    Par d‚faut, la tabulation vaut 8.
+ 
+ 
+ 
+DEPLACEMENT DU CURSEUR
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+    Vous pouvez d‚placer le curseur … l'int‚rieur de votre document en
+appuyant sur les touches de directions HAUT, BAS, DROITE et GAUCHE.
+Mais il existe d'autres touches de direction:
+ 
+    ~   PAGEHAUT :    Permet de faire d‚filer l'‚cran vers le haut
+ 
+    ~   PAGEBAS  :    Permet de faire d‚filer l'‚cran vers le bas
+ 
+    ~   DEBUT    :    Permet de positionner le curseur au d‚but de la ligne
+ 
+    ~   FIN      :    Permet de positionner le curseur en fin de phrase
+ 
+    ~   TAB      :    Permet de se deplacer d'une tabulation … droite
+ 
+    ~   SHIFT TAB:    Permet de positionner … la pr‚cedente tabulation
+ 
+ 
+ 
+INSERTION DE LIGNES
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+    Positionner le curseur sur la ligne o— doit ˆtre ins‚rer une ligne,
+et s‚lectionner la commande Ins‚rer ligne dans le menu Edition autant de
+fois qu'il y a de lignes … ins‚rer.
+ 
+ 
+ 
+SUPPRESSION DE LIGNES
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+    Positionner le curseur sur la ligne … supprimer et s‚lectionner la
+commande Couper ligne dans le menu Edition autant de fois qu'il y a de
+lignes … supprimer.
+ 
+ 
+ 
+GESTION DE FICHIERS
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+    S‚lectionner les commandes du menu FICHIER pour :
+ 
+    ~ Cr‚‚r un nouveau document
+    ~ Ouvrir un document existant
+    ~ Sauver un document
+    ~ Imprimer un document
+ 
+ 
+ 
+CREATION D'UN NOUVEAU DOCUMENT
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+    S‚lectionner la commande Nouveau dans le menu Fichier. L'Editeur ED
+ouvre une fentre vide qui a pour titre Sans_Nom.txt.
+Vous pouvez commencer … taper votre texte, celui-ci s'affiche dans
+la fenˆtre principale.
+ 
+        ATTENTION:    La cr‚ation d'un nouveau document ne prend pas en
+                      charge automatiquement la sauvegarde du document
+                      pr‚c‚dent.

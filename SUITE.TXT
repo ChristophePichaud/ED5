@@ -1,0 +1,87 @@
+ 
+OUVERTURE D'UN FICHIER
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+    Pour ouvrir un fichier pr‚c‚demment cr‚‚ avec l'‚diteur ED, il vous
+suffit de s‚lectionner la commande Ouvrir du menu Fichier.
+L'‚diteur ED vous invite alors … lui fournir le nom du fichier …
+ouvrir. Lorsque vous avez tap‚ le nom du fichier, appuyer sur la
+touche ENTREE.
+ 
+En cas d'erreur, veuillez recommencer.
+ 
+ 
+ 
+ENREGISTREMENT D'UN FICHIER
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+    Le nom d'un document est inscrit en haut de la fenˆtre de l'‚diteur
+ED. Par d‚faut, et pour toute cr‚ation, ce nom est Sans_Nom.txt.
+ 
+Vous pouvez sauver un document soit en choisissant la commande Enregistrer
+soit en choisissant la commande Enregistrer sous ....
+Ces deux commandes se trouvent dans le menu Fichier.
+Pour actualiser un document, la commande Enregistrer convient.
+Pour sauver un nouveau document, la commande Enregistrer sous ...
+doit ˆtre s‚lectionn‚e.
+ 
+La commande Enregistrer sauvegarde votre document avec le nom qui
+est inscrit sur le haut de la fenˆtre, tandis que
+Enregistrer sous ... vous invite … fournir le nom sous lequel vous
+voulez sauver votre document.
+ 
+        Remarque:    Si vous cr‚ez un nouveau document et que vous
+                     s‚lectionnz la commande Enregistrer du menu Fichier,
+                     alors votre document sera sauvegard‚ dans un fichier
+                     portant le nom Sans_Nom.txt.
+ 
+ 
+ 
+UTILISATION DE L'AIDE
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+    Pour obtenir de l'aide sur une commande accessible par le clavier,
+s‚l‚ctionner la commande Clavier du menu Aide.
+Pour obtenir des renseignements sur les commandes pr‚sentes dans les menus,
+s‚lectionner la commande Menu dans le menu Aide.
+ 
+ 
+ 
+UTILISATION DES COMMANDES GRAPHIQUES
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+    Il existe dans le menu Edition des commandes sp‚ciales :
+ 
+    _  Ligne h. simple
+    _  Ligne h. double
+    _  Ligne v. simple
+    _  Ligne v. double
+    _  Cadre simple
+    _  Cadre double
+ 
+Pour tracer une ligne, s‚lectionner l'une des 4 commandes lignes.
+Puis cliquez avec le bouton droit de la souris. Relachez le, et d‚placez
+vous. Vous apercevez le trac‚ r‚p‚titif d'une ligne. Lorsque la position
+de la souris vous convient cliquez une seconde fois sur le bouton gauche
+de la souris. Une ligne est trac‚e.
+ 
+Pour tracer un cadre, la proc‚dure … suivre est rigoureusement la mˆme.
+ 
+        Remarque:    Si vous avez s‚lectionn‚ par erreur une de ces 6
+                     commandes, vous pouvez l'annuler en appyant sur ESC.
+ 
+ 
+ 
+INSERTION DE CARACTERES SEMI-GRAPHIQUES
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ 
+    Pour choisir un caractŠre semi-graphique, vous devez positionner la
+la souris dans le coin droit sup‚rieur de l'‚cran puis appuyer sur le
+bouton droit de la souris.
+Les caractŠres sont dispos‚s dans une fenˆtre.
+Pour fermer cette fenˆtre, cliquez avec le bouton gauche de la souris
+sur le caractŠre situ‚ dans le coin sup‚rieur gauche de celle-ci.
+Pour ins‚rer un de ces caractŠres dans un document, cliquez avec le
+bouton gauche de la souris sur un d'eux, puis positionnez votre curseur
+… un endroit de votre choix, et cliquez sur le bouton droit de la souris.
+Si vous ˆtes en mode insertion de caractŠres, les caractŠres seront d‚cal‚s.
